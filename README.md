@@ -1,7 +1,7 @@
-# About
+## About
 Nextcloud tor client.
 
-# Install
+## Compile
 **Debian 12**
 ```
 sudo apt-get install libcurl4-openssl-dev
